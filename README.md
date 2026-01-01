@@ -2,7 +2,7 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-✨ Highlights:
+✨ Highlights::
 
 - 🧑‍💻 VSCode-Powered Code Editor
 - 🔐 Authentication via Clerk
@@ -59,6 +59,7 @@ VITE_STREAM_API_KEY=your_stream_api_key
 ---
 
 ## 🔧 Run the Backend
+
 ```bash
 
 cd backend
