@@ -61,7 +61,6 @@ VITE_STREAM_API_KEY=your_stream_api_key
 ## 🔧 Run the Backend
 
 ```bash
-
 cd backend
 npm install
 npm run dev
